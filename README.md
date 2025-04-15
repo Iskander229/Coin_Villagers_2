@@ -1,3 +1,3 @@
 # Coin_Villagers_2
 
-2nd part of Coin Villagers
+UE5 game created using Blueprints only.
